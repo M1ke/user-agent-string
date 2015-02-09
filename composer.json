@@ -1,0 +1,18 @@
+{
+    "name": "m1ke/user-agent-string",
+    "description": "An interface to the useragentstring.com API",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/M1ke/easy-site-utils"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "m1ke/easy-site-utils": "dev-x1.0"
+    },
+    "autoload": {
+        "classmap": ["user_agent_string.php"]
+    }
+}
