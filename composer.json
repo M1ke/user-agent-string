@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "m1ke/easy-site-utils": "dev-x1.0"
+        "m1ke/easy-site-utils": "dev-master"
     },
     "autoload": {
         "classmap": ["user_agent_string.php"]
