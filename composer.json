@@ -13,6 +13,6 @@
         "m1ke/easy-site-utils": "*"
     },
     "autoload": {
-        "classmap": ["user_agent_string.php"]
+        "classmap": ["UserAgentString.php"]
     }
 }

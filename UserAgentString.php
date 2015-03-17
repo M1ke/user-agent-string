@@ -1,5 +1,6 @@
 <?php
-class user_agent_string {
+
+class UserAgentString {
 	protected $data_file='';
 	public $data=[];
 	protected $save_on_update=true;
